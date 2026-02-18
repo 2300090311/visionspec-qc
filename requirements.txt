@@ -1,0 +1,9 @@
+tensorflow>=2.8
+keras
+opencv-python
+numpy
+matplotlib
+jupyter
+scikit-learn
+Pillow
+pyyaml
