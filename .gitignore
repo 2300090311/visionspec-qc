@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+data/*
+!data/sample_images/
+models/
+*.h5
+*.ckpt
+.DS_Store
+.env
+.ipynb_checkpoints/
